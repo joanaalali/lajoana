@@ -1,0 +1,40 @@
+.main-logo img{
+  width: 8%;
+  height: 8%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3%;
+}
+.main-logo{
+  overflow: hidden;
+}
+.topnavbar a{
+  color: rgb(255, 187, 180);
+  padding: 2%;
+  text-decoration: none;
+  font-size: 14px;
+  display: inline-block;
+}
+.topnavbar{
+  padding-top: 5%;
+  text-align: center;
+}
+.topnavbar a:hover{
+  color: black;
+}
+p{
+    color: rgb(255, 187, 180);
+    margin: 2% 10% 10% 10%;
+}
+h1.solid{
+    color: rgb(255, 187, 180);
+    border-style: solid;
+    border-radius: 5px;
+    border-width: medium;
+    display: inline-block;
+
+}
+.border{
+  text-align: center;
+}
